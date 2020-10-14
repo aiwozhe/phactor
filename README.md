@@ -15,13 +15,13 @@ These PHP classes are designed to be used in conjunction with software used for 
 Installation of this project is very easy using composer:
 
 ```php
-php composer.phar require ionux/phactor:1.0.8
+php composer.phar require aiwozhe/phactor:1.1.0
 ```
 
 If you have git installed, you can clone the repository:
 
 ```sh
-git clone https://github.com/ionux/phactor.git
+git clone https://github.com/aiwozhe/phactor.git
 ```
 
 Or you can install manually by downloading a zip file from the [Releases](https://github.com/ionux/phactor/releases) page and extracting the contents into your project's source directory.

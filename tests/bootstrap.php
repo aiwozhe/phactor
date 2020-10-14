@@ -8,4 +8,4 @@
  * Rich <rich@richmorgan.me>
  */
  
-require 'vendor/autoload.php';
+require './vendor/autoload.php';
